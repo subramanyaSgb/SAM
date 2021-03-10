@@ -7,7 +7,7 @@ wikipedia
 winshell
 pyjokes
 PyAutoGUI
-twilio
 clint
 instaloader
 PyQt5
+twilio
